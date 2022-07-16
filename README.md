@@ -1,11 +1,13 @@
-# Machine_learning_project
- ## Start Machine Learning Project.
+Application url:
+[HousingPredictor](https://ml-regression-app.herokuapp.com/)
 
-### Software and Account Requirement.
+## Start Machine Learning project.
+
+### Software and account Requirement.
 
 1. [Github Account](https://github.com)
-2. [Heroku Account]( https://dashboard.heroku.com/login)
-3. [VS code IDE]( https://code.visualstudi.com/download)
+2. [Heroku Account](https://dashboard.heroku.com/login)
+3. [VS Code IDE](https://code.visualstudio.com/download)
 4. [GIT cli](https://git-scm.com/downloads)
 5. [GIT Documentation](https://git-scm.com/docs/gittutorial)
 
@@ -13,16 +15,11 @@
 Creating conda environment
 ```
 conda create -p venv python==3.7 -y
-(-y means we are saying yes, when it asks yes or no before hand only )
-( -p means it will create virtual environment in the same project folder , advantage of
-which is when you will delete project folder , venv will also get deleted will not occupy
-additional space in your system)
-(-n in place of -p will create the virtual environment in anaconda directory)
 ```
 ```
 conda activate venv/
 ```
-OR
+OR 
 ```
 conda activate venv
 ```
@@ -30,6 +27,7 @@ conda activate venv
 ```
 pip install -r requirements.txt
 ```
+
 To Add files to git
 ```
 git add .
@@ -67,9 +65,9 @@ git remote -v
 ```
 
 To setup CI/CD pipeline in heroku we need 3 information
-1. HEROKU_EMAIL = shankyycool@gmail.com
+1. HEROKU_EMAIL = anishyadav7045075175@gmail.com
 2. HEROKU_API_KEY = <>
-3. HEROKU_APP_NAME = ml-regression-app12
+3. HEROKU_APP_NAME = ml-regression-app
 
 BUILD DOCKER IMAGE
 ```
@@ -114,3 +112,7 @@ pip install ipykernel
 
 Data Drift:
 When your datset stats gets change we call it as data drift
+
+
+
+## Write a function to get training file path from artifact dir
