@@ -2,62 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ddccd32-bf67-4926-8e58-2a76197d30e4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Machine_learning_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Machine_learning_project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/model.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/schema.yaml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/housing/component/data_ingestion.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/component/data_ingestion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/housing/component/data_transformation.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/component/data_transformation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/housing/component/data_validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/component/data_validation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/housing/component/model_evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/component/model_evaluation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/housing/component/model_pusher.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/component/model_pusher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/housing/component/model_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/component/model_trainer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/housing/config/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/config/configuration.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/housing/constant/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/constant/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/housing/entity/artifact_entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/entity/artifact_entity.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/housing/entity/config_entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/entity/config_entity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/housing/entity/experiment.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/housing/entity/housing_predictor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/housing/entity/model_factory.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/housing/exception/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/exception/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/housing/logger/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/logger/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/housing/pipeline/pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/pipeline/pipeline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/housing/util/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/util/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/EDA.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/demo.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/example.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/example.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/example2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/example2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/example3.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/log.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/model_training.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/prediction.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/preprocessing.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebook/sample.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/code-writing-flow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/eda.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/experiment_history.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/files.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/log.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/log_files.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/predict.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/saved_models_files.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/train.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/update_model.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +33,61 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\Machine_learning_project\config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.demo">
+    <configuration name="configuration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Machine_learning_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/housing/config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/housing/config/configuration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Machine_learning_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.configuration" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
