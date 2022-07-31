@@ -2,16 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ddccd32-bf67-4926-8e58-2a76197d30e4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/config.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/schema.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/schema.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing/component/data_ingestion.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/component/data_ingestion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing/component/data_transformation.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/component/data_transformation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/housing/component/data_validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/component/data_validation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing/component/model_evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/component/model_evaluation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing/component/model_pusher.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/component/model_pusher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing/component/model_trainer.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/component/model_trainer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/housing/config/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/config/configuration.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/housing/constant/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/constant/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/housing/entity/artifact_entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/entity/artifact_entity.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/housing/entity/config_entity.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/entity/config_entity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing/exception/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/exception/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing/logger/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/logger/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/housing/pipeline/pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/pipeline/pipeline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/housing/util/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/housing/util/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/example.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/example.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebook/example2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebook/example2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +38,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -102,5 +128,16 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
